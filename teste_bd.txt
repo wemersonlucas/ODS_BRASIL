@@ -1,0 +1,14 @@
+WATSON_ASSISTANT_ID="b1a115af-bb85-484f-a63e-74152c3d9d77"
+WATSON_ASSISTANT_URL="https://api.us-south.assistant.watson.cloud.ibm.com/instances/2c28cfce-2ab2-4dc7-b7ec-3af88b1ad49d/v2/assistants/b1a115af-bb85-484f-a63e-74152c3d9d77/sessions"
+WATSON_ASSISTANT_APIKEY="V4IksyJF6WhNGqXMloc2-hZdrXJOyvWfba0vg1YiBkTq"
+
+HOST="localhost"
+USER="root"
+PASS="w4rbj123"
+DB="chatbot"
+
+HOST_EMAIL="smtp.gmail.com"
+PORT_EMAIL=587
+SECURE=false
+USER_EMAIL="ronaldom32@gmail.com"
+PASS_EMAIL="94092841a"
